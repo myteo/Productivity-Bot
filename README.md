@@ -2,6 +2,6 @@
 
 Chatbot built on Microsoft Bot Framework and LUIS for Hackfest 2016
 
-ss1.png
-ss2.png
+<img src="ss1.png">
+<img src="ss2.png">
 
